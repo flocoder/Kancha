@@ -1,0 +1,19 @@
+/* TEAM */
+	
+	Wev Designer/Developer:floCoder 
+	Contact: flocoder@gmail.com
+	Website: http://flocoder.com
+	Twitter/Github: @flocoder
+	From: Sydney, Australia
+
+/* THANKS */
+
+	pixabay.com
+	Bootstrap CSS
+	jQuery
+
+/* SITE */
+	
+	Language: English
+	Doctype: HTML5, CSS3
+	IDE: Sublime Text, Photoshop

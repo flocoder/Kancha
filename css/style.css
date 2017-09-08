@@ -1,0 +1,144 @@
+/* 
+
+Author: @flocoder
+URL: http://flocoder.com
+
+==========================================================================
+Author's custom styles
+========================================================================== */
+body{ 			
+	font-size:16px;
+	background-color: #bbbbbb;
+}
+
+body,p,div{
+	font-family: 'Ubuntu', sans-serif, arial;
+}
+
+.aerial-map .modal-dialog{
+	width:78%;
+	text-align: center;
+}
+
+.btn{
+	
+	border-radius: 0;
+	border:none;
+	font-weight:500;
+	font-size:22px;
+}
+
+.btn-lg{
+	padding:10px 34px;
+}
+
+.btn-primary{
+	background-color:#6b48ed;
+	background-image:none;
+}
+
+.main-logo{
+	margin: 50px;
+}
+
+h1,h2,h3,h4,h5,h6{
+	color:#ffffff;
+	font-family: 'Ubuntu', sans-serif, arial;
+}
+
+.scroll-down{
+	margin-top:15px; 
+}
+
+.carousel{
+	border:14px solid #ffffff;
+}
+
+.carousel-control{
+	font-size:25px;
+}
+
+.page-scroll{
+	
+	color: #6b48ed;
+	font-size:40px;
+}
+
+.half-logo{
+	margin-top:40px;
+}
+
+.register-form{
+	margin:50px 0;
+}
+
+.form-control{
+	border-radius: 0;
+}
+
+.phone-number{
+	color:#ffffff;
+	font-size:45px;
+	
+}
+
+.desc{
+	margin-top:10px;
+
+}
+
+.register-interest{
+	
+}
+
+.register-interest input{
+	padding:20px 10px;
+}
+
+input{
+	padding:20px;	
+}
+
+footer{
+	color:#ffffff;
+	font-size:15px;
+}
+
+footer p a{
+	color:#ffffff;
+}
+
+.footer-wrap{
+	padding: 50px 0;
+	background-color:#1e0d5c;
+}
+
+/* Fixes input text hides */
+input[type="text"] {
+	padding-top:0;
+	padding-bottom:0;
+	vertical-align:middle;
+}
+
+.disclaimer{
+	font-size:1.2em;
+	color:#000000;	
+	
+}
+
+.disclaimer h4{
+	color:#000000;	
+}
+
+.disclaimer .modal-content{
+	padding:15px;
+}
+
+.response{
+	margin-top:20px;	
+}
+
+.error{
+	color: #FF0004;
+	font-weight:normal;	
+}
