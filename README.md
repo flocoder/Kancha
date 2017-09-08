@@ -1,2 +1,2 @@
 # Kancha
-Simple HTML landing page
+Free Simple HTML landing page
